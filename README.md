@@ -50,7 +50,7 @@
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🔁 [Self-Healing Infrastructure](https://github.com/KhushiKachhawaha14/self-healing-infra) | Prometheus · Alertmanager · Ansible · Docker | MTTR reduced to **<45 seconds** |
+| 🔁 [Self-Healing Infrastructure](https://github.com/KhushiKachhawaha14/self-healing-infra) | Prometheus · Alertmanager · Ansible · Docker | MTTR reduced to **<6 seconds** |
 | ☁️ [Cloud-Native Monitoring App](https://github.com/KhushiKachhawaha14/cloud-native-monitoring-app) | EKS · Flask · Docker · ECR | **99.9% uptime** with HPA autoscaling |
 | 🚀 [Full Stack Django Deployment Pipeline](https://github.com/KhushiKachhawaha14/Full-Stack-Django-Deployment-Pipeline) | Terraform · GitHub Actions · Nginx · AWS | Commit → Deploy in **minutes** |
 
