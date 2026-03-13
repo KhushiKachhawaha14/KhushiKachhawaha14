@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech CSE Graduate from RTMNU Nagpur (Top 10% · 8.43 CGPA)
-- 🔧 Built a **self-healing infrastructure** that auto-remediates failures in **under 45 seconds**
+- 🔧 Built a **self-healing infrastructure** that auto-remediates failures in **under 6 seconds**
 - ☁️ Hands-on with **AWS (EKS, ECR, EC2, S3)** and **Azure (AKS, VMs)**
 - 🔁 Passionate about **GitOps, SRE practices, and zero-touch deployments**
 - 🌱 Currently exploring: **AI/LLMOps · DevSecOps · CKA**
