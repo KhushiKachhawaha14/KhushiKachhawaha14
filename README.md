@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer • I build infrastructure that fixes itself</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&width=500&lines=AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Docker+%7C+GitHub+Actions;Self-Healing+Infra+%7C+MTTR+%3C+45s;Open+to+DevOps+%2F+Cloud+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&width=500&lines=AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Docker+%7C+GitHub+Actions;Self-Healing+Infra+%7C+MTTR+%3C+6s;Open+to+DevOps+%2F+Cloud+Engineer+Roles" alt="Typing SVG" />
 </p>
 
 ---
